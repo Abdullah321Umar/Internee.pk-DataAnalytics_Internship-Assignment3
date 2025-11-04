@@ -1,0 +1,401 @@
+Student_ID,Age,Gender,High_School_GPA,SAT_Score,University_GPA,Field_of_Study,Internships_Completed,Projects_Completed,Certifications,Soft_Skills_Score,Networking_Score,Job_Offers,Starting_Salary,Career_Satisfaction,Years_to_Promotion,Current_Job_Level,Work_Life_Balance,Entrepreneurship
+S001,22,Male,3.8,1450,3.6,Computer Science,3,7,2,8,7,3,85000,8,2,Mid,7,No
+S002,24,Female,3.6,1380,3.4,Business,2,5,3,7,6,2,65000,7,3,Mid,6,No
+S003,21,Male,3.9,1520,3.8,Engineering,4,9,4,9,8,4,120000,9,1,Senior,6,No
+S004,23,Female,3.5,1300,3.2,Psychology,1,3,1,6,5,1,48000,6,4,Entry,8,No
+S005,25,Male,3.7,1420,3.5,Medicine,2,6,2,8,7,3,95000,8,2,Mid,5,No
+S006,22,Female,3.4,1250,3.1,Education,1,4,1,7,6,1,42000,7,5,Entry,9,No
+S007,24,Male,3.2,1180,2.9,Arts,0,2,0,6,4,0,35000,5,5,Entry,7,No
+S008,23,Female,3.8,1480,3.7,Law,3,8,3,9,8,3,110000,9,2,Mid,6,No
+S009,21,Male,3.6,1350,3.3,Finance,2,5,2,7,7,2,72000,7,3,Mid,6,No
+S010,25,Female,3.9,1550,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S011,22,Male,3.3,1220,3,Marketing,1,3,1,6,5,1,40000,6,4,Entry,8,No
+S012,24,Female,3.7,1400,3.5,Nursing,2,6,2,8,7,2,68000,7,3,Mid,7,No
+S013,23,Male,3.5,1320,3.2,Engineering,2,5,2,7,6,2,60000,7,4,Mid,6,No
+S014,21,Female,3.8,1460,3.6,Business,3,7,3,9,8,3,90000,8,2,Mid,7,No
+S015,25,Male,3.6,1380,3.4,Computer Science,3,6,3,8,7,3,80000,8,3,Mid,6,No
+S016,22,Female,3.4,1240,3.1,Psychology,1,4,1,7,6,1,45000,6,5,Entry,8,No
+S017,24,Male,3.2,1160,2.8,Arts,0,2,0,5,4,0,32000,5,5,Entry,7,No
+S018,23,Female,3.9,1580,4,Medicine,4,9,5,10,9,5,150000,10,1,Senior,5,No
+S019,21,Male,3.7,1420,3.5,Engineering,3,7,3,8,7,3,95000,8,2,Mid,6,No
+S020,25,Female,3.5,1300,3.2,Education,2,5,2,7,6,2,52000,7,4,Entry,8,No
+S021,22,Male,3.8,1470,3.7,Finance,3,8,3,9,8,4,105000,9,2,Mid,6,No
+S022,24,Female,3.6,1360,3.4,Marketing,2,6,2,8,7,2,72000,7,3,Mid,7,No
+S023,23,Male,3.4,1280,3.1,Business,1,4,1,7,6,1,48000,6,5,Entry,8,No
+S024,21,Female,3.9,1540,3.9,Computer Science,4,9,4,10,9,5,135000,10,1,Senior,5,No
+S025,25,Male,3.7,1400,3.5,Law,3,7,3,8,7,3,98000,8,2,Mid,6,No
+S026,22,Female,3.5,1320,3.3,Nursing,2,5,2,7,6,2,65000,7,4,Mid,7,No
+S027,24,Male,3.3,1200,3,Psychology,1,3,1,6,5,1,42000,6,5,Entry,8,No
+S028,23,Female,3.8,1490,3.7,Engineering,3,8,3,9,8,4,115000,9,2,Mid,6,No
+S029,21,Male,3.6,1340,3.4,Business,2,6,2,8,7,2,78000,7,3,Mid,6,No
+S030,25,Female,3.9,1560,4,Medicine,4,9,5,10,9,5,145000,10,1,Senior,5,No
+S031,22,Male,3.4,1260,3.1,Marketing,1,4,1,7,6,1,46000,6,5,Entry,7,No
+S032,24,Female,3.7,1420,3.5,Finance,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S033,23,Male,3.5,1300,3.2,Computer Science,2,5,2,7,6,2,70000,7,4,Mid,6,No
+S034,21,Female,3.8,1480,3.6,Business,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S035,25,Male,3.6,1380,3.4,Engineering,3,6,3,8,7,3,82000,8,3,Mid,6,No
+S036,22,Female,3.2,1180,2.9,Arts,0,2,0,6,5,0,34000,5,5,Entry,7,No
+S037,24,Male,3.9,1530,3.8,Law,4,9,4,10,9,5,125000,10,1,Senior,5,No
+S038,23,Female,3.7,1400,3.5,Psychology,2,6,2,8,7,2,68000,7,3,Mid,7,No
+S039,21,Male,3.5,1320,3.3,Medicine,2,5,2,7,6,2,62000,7,4,Mid,6,No
+S040,25,Female,3.8,1500,3.7,Computer Science,3,7,3,9,8,4,112000,9,2,Mid,6,No
+S041,22,Male,3.6,1360,3.4,Business,2,5,2,8,7,2,76000,7,3,Mid,6,No
+S042,24,Female,3.4,1240,3.1,Education,1,4,1,7,6,1,50000,6,5,Entry,8,No
+S043,23,Male,3.2,1190,2.8,Arts,0,2,0,5,4,0,31000,5,5,Entry,7,No
+S044,21,Female,3.9,1570,3.9,Engineering,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S045,25,Male,3.7,1410,3.5,Finance,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S046,22,Female,3.5,1290,3.2,Marketing,2,5,2,7,6,2,64000,7,4,Mid,7,No
+S047,24,Male,3.3,1210,3,Psychology,1,3,1,6,5,1,44000,6,5,Entry,8,No
+S048,23,Female,3.8,1450,3.6,Business,3,8,3,9,8,4,98000,9,2,Mid,6,No
+S049,21,Male,3.6,1330,3.4,Computer Science,2,6,2,8,7,2,80000,7,3,Mid,6,No
+S050,25,Female,3.9,1540,3.9,Medicine,4,9,5,10,9,5,142000,10,1,Senior,5,No
+S051,22,Male,3.5,1280,3.2,Engineering,2,5,2,7,6,2,68000,7,4,Mid,6,No
+S052,24,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S053,23,Male,3.4,1260,3.1,Marketing,1,4,1,7,6,1,46000,6,5,Entry,7,No
+S054,21,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,135000,10,1,Senior,5,No
+S055,25,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,82000,8,3,Mid,6,No
+S056,22,Female,3.2,1180,2.9,Arts,0,2,0,6,5,0,34000,5,5,Entry,7,No
+S057,24,Male,3.8,1490,3.7,Medicine,4,9,4,9,8,4,115000,9,2,Mid,6,No
+S058,23,Female,3.6,1340,3.4,Finance,2,5,2,8,7,2,78000,7,3,Mid,6,No
+S059,21,Male,3.7,1460,3.6,Engineering,3,7,3,9,8,3,98000,8,2,Mid,6,No
+S060,25,Female,3.5,1320,3.3,Psychology,2,5,2,7,6,2,65000,7,4,Mid,7,No
+S061,22,Male,3.3,1220,3,Business,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S062,24,Female,3.9,1570,3.9,Computer Science,4,9,5,10,9,5,142000,10,1,Senior,5,No
+S063,23,Male,3.6,1380,3.5,Law,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S064,21,Female,3.4,1240,3.2,Nursing,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S065,25,Male,3.2,1160,2.8,Arts,0,2,0,5,4,0,31000,5,5,Entry,7,No
+S066,22,Female,3.8,1480,3.7,Business,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S067,24,Male,3.5,1300,3.3,Engineering,2,6,2,7,6,2,76000,7,3,Mid,6,No
+S068,23,Female,3.7,1440,3.5,Psychology,3,7,3,8,7,3,72000,8,3,Mid,7,No
+S069,21,Male,3.9,1550,3.8,Medicine,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S070,25,Female,3.6,1360,3.4,Marketing,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S071,22,Male,3.4,1280,3.1,Business,1,5,1,7,6,1,56000,6,5,Entry,8,No
+S072,24,Female,3.8,1500,3.7,Computer Science,4,8,4,9,8,4,118000,9,2,Mid,6,No
+S073,23,Male,3.5,1320,3.3,Law,2,5,2,7,6,2,68000,7,4,Mid,7,No
+S074,21,Female,3.7,1460,3.6,Engineering,3,7,3,8,7,3,94000,8,2,Mid,6,No
+S075,25,Male,3.9,1580,4,Medicine,4,9,5,10,9,5,152000,10,1,Senior,5,No
+S076,22,Female,3.6,1400,3.5,Psychology,2,6,2,8,7,2,70000,7,3,Mid,7,No
+S077,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,46000,6,5,Entry,8,No
+S078,23,Female,3.8,1520,3.8,Business,3,8,3,9,8,4,108000,9,2,Mid,6,No
+S079,21,Male,3.5,1340,3.4,Engineering,2,5,2,7,6,2,74000,7,3,Mid,6,No
+S080,25,Female,3.7,1420,3.5,Marketing,3,7,3,8,7,3,90000,8,2,Mid,6,No
+S081,22,Male,3.4,1260,3.2,Business,1,4,1,7,6,1,52000,6,5,Entry,7,No
+S082,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S083,23,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,86000,8,3,Mid,6,No
+S084,21,Female,3.5,1300,3.3,Psychology,2,5,2,7,6,2,62000,7,4,Mid,7,No
+S085,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,112000,9,2,Mid,6,No
+S086,22,Female,3.6,1360,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S087,24,Male,3.4,1240,3.1,Arts,1,3,1,6,5,1,48000,6,5,Entry,8,No
+S088,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,98000,9,2,Mid,6,No
+S089,21,Male,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,144000,10,1,Senior,5,No
+S090,25,Female,3.5,1320,3.3,Marketing,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S091,22,Male,3.3,1180,2.9,Psychology,1,3,1,6,5,1,44000,6,5,Entry,8,No
+S092,24,Female,3.8,1500,3.7,Business,3,8,3,9,8,4,104000,9,2,Mid,6,No
+S093,23,Male,3.6,1340,3.4,Engineering,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S094,21,Female,3.7,1440,3.5,Medicine,3,7,3,9,8,3,92000,8,2,Mid,6,No
+S095,25,Male,3.9,1570,3.8,Computer Science,4,9,5,10,9,5,146000,10,1,Senior,5,No
+S096,22,Female,3.5,1280,3.2,Law,2,6,2,7,6,2,72000,7,4,Mid,7,No
+S097,24,Male,3.4,1220,3,Business,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S098,23,Female,3.8,1520,3.7,Psychology,3,8,3,9,8,4,100000,9,2,Mid,6,No
+S099,21,Male,3.6,1360,3.4,Engineering,2,5,2,8,7,2,78000,7,3,Mid,6,No
+S100,25,Female,3.7,1400,3.5,Medicine,3,7,3,9,8,3,94000,8,2,Mid,6,No
+S101,22,Male,3.5,1300,3.3,Business,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S102,24,Female,3.7,1440,3.5,Engineering,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S103,23,Male,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S104,21,Female,3.9,1560,3.8,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S105,25,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S106,22,Female,3.2,1180,2.9,Arts,0,2,0,5,4,0,38000,5,5,Entry,7,No
+S107,24,Male,3.8,1500,3.7,Medicine,4,8,4,9,8,4,118000,9,2,Mid,6,No
+S108,23,Female,3.6,1340,3.4,Marketing,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S109,21,Male,3.7,1480,3.6,Engineering,3,7,3,8,7,3,96000,8,2,Mid,6,No
+S110,25,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S111,22,Male,3.3,1240,3,Psychology,1,3,1,6,5,1,48000,6,5,Entry,8,No
+S112,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,136000,10,1,Senior,5,No
+S113,23,Male,3.6,1360,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S114,21,Female,3.5,1300,3.2,Marketing,2,5,2,7,6,2,64000,7,4,Mid,7,No
+S115,25,Male,3.8,1520,3.7,Engineering,4,8,4,9,8,4,114000,9,2,Mid,6,No
+S116,22,Female,3.6,1380,3.5,Business,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S117,24,Male,3.4,1280,3.1,Arts,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S118,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,96000,9,2,Mid,6,No
+S119,21,Male,3.9,1580,3.9,Computer Science,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S120,25,Female,3.6,1400,3.4,Law,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S121,22,Male,3.4,1220,3,Psychology,1,3,1,6,5,1,46000,6,5,Entry,7,No
+S122,24,Female,3.8,1480,3.7,Business,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S123,23,Male,3.5,1340,3.3,Engineering,2,6,2,7,6,2,78000,7,3,Mid,6,No
+S124,21,Female,3.7,1440,3.5,Marketing,3,7,3,8,7,3,72000,8,3,Mid,7,No
+S125,25,Male,3.9,1560,3.8,Medicine,4,9,5,10,9,5,150000,10,1,Senior,5,No
+S126,22,Female,3.5,1300,3.2,Business,2,5,2,7,6,2,70000,7,4,Mid,7,No
+S127,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S128,23,Female,3.8,1520,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S129,21,Male,3.6,1360,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S130,25,Female,3.7,1420,3.5,Psychology,3,7,3,8,7,3,86000,8,2,Mid,7,No
+S131,22,Male,3.4,1260,3.1,Business,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S132,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S133,23,Male,3.6,1380,3.4,Marketing,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S134,21,Female,3.5,1320,3.3,Engineering,2,5,2,7,6,2,72000,7,4,Mid,7,No
+S135,25,Male,3.8,1500,3.7,Business,3,7,3,9,8,4,104000,9,2,Mid,6,No
+S136,22,Female,3.6,1340,3.5,Psychology,2,6,2,8,7,2,74000,7,3,Mid,7,No
+S137,24,Male,3.4,1240,3,Arts,1,3,1,6,5,1,52000,6,5,Entry,8,No
+S138,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,98000,9,2,Mid,6,No
+S139,21,Male,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,144000,10,1,Senior,5,No
+S140,25,Female,3.5,1280,3.2,Law,2,6,2,7,6,2,76000,7,4,Mid,7,No
+S141,22,Male,3.3,1180,2.9,Business,1,4,1,6,5,1,48000,6,5,Entry,8,No
+S142,24,Female,3.8,1520,3.7,Marketing,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S143,23,Male,3.6,1360,3.4,Engineering,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S144,21,Female,3.7,1480,3.5,Psychology,3,7,3,9,8,3,94000,8,2,Mid,6,No
+S145,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,146000,10,1,Senior,5,No
+S146,22,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,70000,7,4,Mid,7,No
+S147,24,Male,3.4,1220,3,Arts,1,3,1,6,5,1,54000,6,5,Entry,8,No
+S148,23,Female,3.8,1500,3.7,Computer Science,3,8,3,9,8,4,108000,9,2,Mid,6,No
+S149,21,Male,3.6,1340,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S150,25,Female,3.7,1400,3.5,Psychology,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S151,22,Male,3.5,1300,3.2,Engineering,2,6,2,7,6,2,74000,7,4,Mid,6,No
+S152,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S153,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S154,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S155,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S156,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S157,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S158,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S159,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S160,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
+S161,22,Male,3.4,1240,3,Business,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S162,24,Female,3.8,1500,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S163,23,Male,3.5,1320,3.3,Law,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S164,21,Female,3.7,1460,3.5,Psychology,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S165,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S166,22,Female,3.6,1380,3.4,Business,2,6,2,8,7,2,84000,8,3,Mid,7,No
+S167,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S168,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S169,21,Male,3.6,1340,3.4,Marketing,2,5,2,7,6,2,78000,7,3,Mid,6,No
+S170,25,Female,3.7,1400,3.5,Engineering,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S171,22,Male,3.5,1280,3.2,Business,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S172,24,Female,3.7,1440,3.5,Engineering,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S173,23,Male,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S174,21,Female,3.9,1560,3.8,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S175,25,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S176,22,Female,3.2,1180,2.9,Arts,0,2,0,5,4,0,38000,5,5,Entry,7,No
+S177,24,Male,3.8,1500,3.7,Medicine,4,8,4,9,8,4,118000,9,2,Mid,6,No
+S178,23,Female,3.6,1340,3.4,Marketing,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S179,21,Male,3.7,1480,3.6,Engineering,3,7,3,8,7,3,96000,8,2,Mid,6,No
+S180,25,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S181,22,Male,3.3,1240,3,Psychology,1,3,1,6,5,1,48000,6,5,Entry,8,No
+S182,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,136000,10,1,Senior,5,No
+S183,23,Male,3.6,1360,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S184,21,Female,3.5,1300,3.2,Marketing,2,5,2,7,6,2,64000,7,4,Mid,7,No
+S185,25,Male,3.8,1520,3.7,Engineering,4,8,4,9,8,4,114000,9,2,Mid,6,No
+S186,22,Female,3.6,1380,3.5,Business,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S187,24,Male,3.4,1280,3.1,Arts,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S188,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,96000,9,2,Mid,6,No
+S189,21,Male,3.9,1580,3.9,Computer Science,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S190,25,Female,3.6,1400,3.4,Law,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S191,22,Male,3.4,1220,3,Psychology,1,3,1,6,5,1,46000,6,5,Entry,7,No
+S192,24,Female,3.8,1480,3.7,Business,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S193,23,Male,3.5,1340,3.3,Engineering,2,6,2,7,6,2,78000,7,3,Mid,6,No
+S194,21,Female,3.7,1440,3.5,Marketing,3,7,3,8,7,3,72000,8,3,Mid,7,No
+S195,25,Male,3.9,1560,3.8,Medicine,4,9,5,10,9,5,150000,10,1,Senior,5,No
+S196,22,Female,3.5,1300,3.2,Business,2,5,2,7,6,2,70000,7,4,Mid,7,No
+S197,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S198,23,Female,3.8,1520,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S199,21,Male,3.6,1360,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S200,25,Female,3.7,1420,3.5,Psychology,3,7,3,8,7,3,86000,8,2,Mid,7,No
+S201,22,Male,3.4,1260,3.1,Business,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S202,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S203,23,Male,3.6,1380,3.4,Marketing,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S204,21,Female,3.5,1320,3.3,Engineering,2,5,2,7,6,2,72000,7,4,Mid,7,No
+S205,25,Male,3.8,1500,3.7,Business,3,7,3,9,8,4,104000,9,2,Mid,6,No
+S206,22,Female,3.6,1340,3.5,Psychology,2,6,2,8,7,2,74000,7,3,Mid,7,No
+S207,24,Male,3.4,1240,3,Arts,1,3,1,6,5,1,52000,6,5,Entry,8,No
+S208,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,98000,9,2,Mid,6,No
+S209,21,Male,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,144000,10,1,Senior,5,No
+S210,25,Female,3.5,1280,3.2,Law,2,6,2,7,6,2,76000,7,4,Mid,7,No
+S211,22,Male,3.3,1180,2.9,Business,1,4,1,6,5,1,48000,6,5,Entry,8,No
+S212,24,Female,3.8,1520,3.7,Marketing,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S213,23,Male,3.6,1360,3.4,Engineering,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S214,21,Female,3.7,1480,3.5,Psychology,3,7,3,9,8,3,94000,8,2,Mid,6,No
+S215,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,146000,10,1,Senior,5,No
+S216,22,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,70000,7,4,Mid,7,No
+S217,24,Male,3.4,1220,3,Arts,1,3,1,6,5,1,54000,6,5,Entry,8,No
+S218,23,Female,3.8,1500,3.7,Computer Science,3,8,3,9,8,4,108000,9,2,Mid,6,No
+S219,21,Male,3.6,1340,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S220,25,Female,3.7,1400,3.5,Psychology,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S221,22,Male,3.5,1300,3.2,Engineering,2,6,2,7,6,2,74000,7,4,Mid,6,No
+S222,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S223,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S224,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S225,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S226,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S227,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S228,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S229,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S230,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
+S231,22,Male,3.5,1300,3.3,Business,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S232,24,Female,3.7,1440,3.5,Engineering,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S233,23,Male,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S234,21,Female,3.9,1560,3.8,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S235,25,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S236,22,Female,3.2,1180,2.9,Arts,0,2,0,5,4,0,38000,5,5,Entry,7,No
+S237,24,Male,3.8,1500,3.7,Medicine,4,8,4,9,8,4,118000,9,2,Mid,6,No
+S238,23,Female,3.6,1340,3.4,Marketing,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S239,21,Male,3.7,1480,3.6,Engineering,3,7,3,8,7,3,96000,8,2,Mid,6,No
+S240,25,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S241,22,Male,3.3,1240,3,Psychology,1,3,1,6,5,1,48000,6,5,Entry,8,No
+S242,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,136000,10,1,Senior,5,No
+S243,23,Male,3.6,1360,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S244,21,Female,3.5,1300,3.2,Marketing,2,5,2,7,6,2,64000,7,4,Mid,7,No
+S245,25,Male,3.8,1520,3.7,Engineering,4,8,4,9,8,4,114000,9,2,Mid,6,No
+S246,22,Female,3.6,1380,3.5,Business,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S247,24,Male,3.4,1280,3.1,Arts,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S248,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,96000,9,2,Mid,6,No
+S249,21,Male,3.9,1580,3.9,Computer Science,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S250,25,Female,3.6,1400,3.4,Law,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S251,22,Male,3.4,1220,3,Psychology,1,3,1,6,5,1,46000,6,5,Entry,7,No
+S252,24,Female,3.8,1480,3.7,Business,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S253,23,Male,3.5,1340,3.3,Engineering,2,6,2,7,6,2,78000,7,3,Mid,6,No
+S254,21,Female,3.7,1440,3.5,Marketing,3,7,3,8,7,3,72000,8,3,Mid,7,No
+S255,25,Male,3.9,1560,3.8,Medicine,4,9,5,10,9,5,150000,10,1,Senior,5,No
+S256,22,Female,3.5,1300,3.2,Business,2,5,2,7,6,2,70000,7,4,Mid,7,No
+S257,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S258,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S259,21,Male,3.6,1360,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S260,25,Female,3.7,1420,3.5,Psychology,3,7,3,8,7,3,86000,8,2,Mid,7,No
+S261,22,Male,3.4,1260,3.1,Business,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S262,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S263,23,Male,3.6,1380,3.4,Marketing,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S264,21,Female,3.5,1320,3.3,Engineering,2,5,2,7,6,2,72000,7,4,Mid,7,No
+S265,25,Male,3.8,1500,3.7,Business,3,7,3,9,8,4,104000,9,2,Mid,6,No
+S266,22,Female,3.6,1340,3.5,Psychology,2,6,2,8,7,2,74000,7,3,Mid,7,No
+S267,24,Male,3.4,1240,3,Arts,1,3,1,6,5,1,52000,6,5,Entry,8,No
+S268,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,98000,9,2,Mid,6,No
+S269,21,Male,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,144000,10,1,Senior,5,No
+S270,25,Female,3.5,1280,3.2,Law,2,6,2,7,6,2,76000,7,4,Mid,7,No
+S271,22,Male,3.3,1180,2.9,Business,1,4,1,6,5,1,48000,6,5,Entry,8,No
+S272,24,Female,3.8,1520,3.7,Marketing,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S273,23,Male,3.6,1360,3.4,Engineering,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S274,21,Female,3.7,1480,3.5,Psychology,3,7,3,9,8,3,94000,8,2,Mid,6,No
+S275,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,146000,10,1,Senior,5,No
+S276,22,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,70000,7,4,Mid,7,No
+S277,24,Male,3.4,1220,3,Arts,1,3,1,6,5,1,54000,6,5,Entry,8,No
+S278,23,Female,3.8,1500,3.7,Computer Science,3,8,3,9,8,4,108000,9,2,Mid,6,No
+S279,21,Male,3.6,1340,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S280,25,Female,3.7,1400,3.5,Psychology,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S281,22,Male,3.5,1300,3.2,Engineering,2,6,2,7,6,2,74000,7,4,Mid,6,No
+S282,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S283,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S284,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S285,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S286,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S287,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S288,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S289,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S290,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
+S291,22,Male,3.4,1240,3,Business,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S292,24,Female,3.8,1500,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S293,23,Male,3.5,1320,3.3,Law,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S294,21,Female,3.7,1460,3.5,Psychology,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S295,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S296,22,Female,3.6,1380,3.4,Business,2,6,2,8,7,2,84000,8,3,Mid,7,No
+S297,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S298,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S299,21,Male,3.6,1340,3.4,Marketing,2,5,2,7,6,2,78000,7,3,Mid,6,No
+S300,25,Female,3.7,1400,3.5,Engineering,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S301,22,Male,3.5,1300,3.3,Business,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S302,24,Female,3.7,1440,3.5,Engineering,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S303,23,Male,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S304,21,Female,3.9,1560,3.8,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S305,25,Male,3.6,1380,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S306,22,Female,3.2,1180,2.9,Arts,0,2,0,5,4,0,38000,5,5,Entry,7,No
+S307,24,Male,3.8,1500,3.7,Medicine,4,8,4,9,8,4,118000,9,2,Mid,6,No
+S308,23,Female,3.6,1340,3.4,Marketing,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S309,21,Male,3.7,1480,3.6,Engineering,3,7,3,8,7,3,96000,8,2,Mid,6,No
+S310,25,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,68000,7,4,Mid,7,No
+S311,22,Male,3.3,1240,3,Psychology,1,3,1,6,5,1,48000,6,5,Entry,8,No
+S312,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,136000,10,1,Senior,5,No
+S313,23,Male,3.6,1360,3.4,Law,3,6,3,8,7,3,84000,8,3,Mid,6,No
+S314,21,Female,3.5,1300,3.2,Marketing,2,5,2,7,6,2,64000,7,4,Mid,7,No
+S315,25,Male,3.8,1520,3.7,Engineering,4,8,4,9,8,4,114000,9,2,Mid,6,No
+S316,22,Female,3.6,1380,3.5,Business,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S317,24,Male,3.4,1280,3.1,Arts,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S318,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,96000,9,2,Mid,6,No
+S319,21,Male,3.9,1580,3.9,Computer Science,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S320,25,Female,3.6,1400,3.4,Law,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S321,22,Male,3.4,1220,3,Psychology,1,3,1,6,5,1,46000,6,5,Entry,7,No
+S322,24,Female,3.8,1480,3.7,Business,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S323,23,Male,3.5,1340,3.3,Engineering,2,6,2,7,6,2,78000,7,3,Mid,6,No
+S324,21,Female,3.7,1440,3.5,Marketing,3,7,3,8,7,3,72000,8,3,Mid,7,No
+S325,25,Male,3.9,1560,3.8,Medicine,4,9,5,10,9,5,150000,10,1,Senior,5,No
+S326,22,Female,3.5,1300,3.2,Business,2,5,2,7,6,2,70000,7,4,Mid,7,No
+S327,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S328,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S329,21,Male,3.6,1360,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S330,25,Female,3.7,1420,3.5,Psychology,3,7,3,8,7,3,86000,8,2,Mid,7,No
+S331,22,Male,3.4,1260,3.1,Business,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S332,24,Female,3.9,1540,3.9,Computer Science,4,9,5,10,9,5,138000,10,1,Senior,5,No
+S333,23,Male,3.6,1380,3.4,Marketing,3,6,3,8,7,3,88000,8,3,Mid,6,No
+S334,21,Female,3.5,1320,3.3,Engineering,2,5,2,7,6,2,72000,7,4,Mid,7,No
+S335,25,Male,3.8,1500,3.7,Business,3,7,3,9,8,4,104000,9,2,Mid,6,No
+S336,22,Female,3.6,1340,3.5,Psychology,2,6,2,8,7,2,74000,7,3,Mid,7,No
+S337,24,Male,3.4,1240,3,Arts,1,3,1,6,5,1,52000,6,5,Entry,8,No
+S338,23,Female,3.7,1460,3.6,Medicine,3,7,3,9,8,3,98000,9,2,Mid,6,No
+S339,21,Male,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,144000,10,1,Senior,5,No
+S340,25,Female,3.5,1280,3.2,Law,2,6,2,7,6,2,76000,7,4,Mid,7,No
+S341,22,Male,3.3,1180,2.9,Business,1,4,1,6,5,1,48000,6,5,Entry,8,No
+S342,24,Female,3.8,1520,3.7,Marketing,3,8,3,9,8,4,102000,9,2,Mid,6,No
+S343,23,Male,3.6,1360,3.4,Engineering,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S344,21,Female,3.7,1480,3.5,Psychology,3,7,3,9,8,3,94000,8,2,Mid,6,No
+S345,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,146000,10,1,Senior,5,No
+S346,22,Female,3.5,1320,3.3,Business,2,6,2,7,6,2,70000,7,4,Mid,7,No
+S347,24,Male,3.4,1220,3,Arts,1,3,1,6,5,1,54000,6,5,Entry,8,No
+S348,23,Female,3.8,1500,3.7,Computer Science,3,8,3,9,8,4,108000,9,2,Mid,6,No
+S349,21,Male,3.6,1340,3.4,Law,2,5,2,8,7,2,82000,7,3,Mid,6,No
+S350,25,Female,3.7,1400,3.5,Psychology,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S351,22,Male,3.5,1300,3.2,Engineering,2,6,2,7,6,2,74000,7,4,Mid,6,No
+S352,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S353,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S354,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S355,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S356,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S357,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S358,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S359,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S360,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
+S361,22,Male,3.4,1240,3,Business,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S362,24,Female,3.8,1500,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S363,23,Male,3.5,1320,3.3,Law,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S364,21,Female,3.7,1460,3.5,Psychology,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S365,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S366,22,Female,3.6,1380,3.4,Business,2,6,2,8,7,2,84000,8,3,Mid,7,No
+S367,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S368,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S369,21,Male,3.6,1340,3.4,Marketing,2,5,2,7,6,2,78000,7,3,Mid,6,No
+S370,25,Female,3.7,1400,3.5,Engineering,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S371,22,Male,3.4,1260,3.1,Law,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S372,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S373,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S374,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S375,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S376,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S377,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S378,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S379,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S380,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
+S381,22,Male,3.4,1240,3,Business,1,4,1,6,5,1,52000,6,5,Entry,8,No
+S382,24,Female,3.8,1500,3.7,Engineering,3,8,3,9,8,4,110000,9,2,Mid,6,No
+S383,23,Male,3.5,1320,3.3,Law,2,5,2,7,6,2,76000,7,3,Mid,6,No
+S384,21,Female,3.7,1460,3.5,Psychology,3,7,3,8,7,3,90000,8,2,Mid,7,No
+S385,25,Male,3.9,1580,3.8,Medicine,4,9,5,10,9,5,148000,10,1,Senior,5,No
+S386,22,Female,3.6,1380,3.4,Business,2,6,2,8,7,2,84000,8,3,Mid,7,No
+S387,24,Male,3.3,1200,3,Arts,1,3,1,6,5,1,50000,6,5,Entry,8,No
+S388,23,Female,3.8,1520,3.7,Computer Science,3,8,3,9,8,4,106000,9,2,Mid,6,No
+S389,21,Male,3.6,1340,3.4,Marketing,2,5,2,7,6,2,78000,7,3,Mid,6,No
+S390,25,Female,3.7,1400,3.5,Engineering,3,7,3,8,7,3,92000,8,2,Mid,6,No
+S391,22,Male,3.4,1260,3.1,Law,1,4,1,7,6,1,54000,6,5,Entry,8,No
+S392,24,Female,3.9,1540,3.9,Business,4,9,4,10,9,5,134000,10,1,Senior,5,No
+S393,23,Male,3.6,1380,3.5,Marketing,3,7,3,8,7,3,90000,8,3,Mid,6,No
+S394,21,Female,3.4,1260,3.1,Psychology,1,4,1,6,5,1,56000,6,5,Entry,8,No
+S395,25,Male,3.8,1480,3.7,Engineering,4,8,4,9,8,4,116000,9,2,Mid,6,No
+S396,22,Female,3.7,1420,3.5,Business,3,7,3,8,7,3,88000,8,2,Mid,7,No
+S397,24,Male,3.5,1300,3.3,Law,2,6,2,7,6,2,72000,7,4,Mid,6,No
+S398,23,Female,3.9,1560,3.9,Computer Science,4,9,5,10,9,5,140000,10,1,Senior,5,No
+S399,21,Male,3.6,1360,3.4,Psychology,2,5,2,8,7,2,80000,7,3,Mid,6,No
+S400,25,Female,3.7,1440,3.6,Marketing,3,7,3,9,8,3,94000,9,2,Mid,6,No
